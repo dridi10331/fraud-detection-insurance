@@ -1,0 +1,8 @@
+﻿TYPE_FRAUDE,NOMBRE_CAS,POURCENTAGE,NIVEAU_GRAVITE,DESCRIPTION
+COLLUSION_EXPERT,83,46.6,ÉLEVÉ,Expert apparaît trop fréquemment - Suspicion de collusion
+REJET_EXPERT,42,23.6,TRÈS ÉLEVÉ,Sinistre rejeté par expert judiciaire
+ABSENCE_PREUVE,24,13.5,MOYEN,Documents ou preuves manquants
+DOSSIER_PRESCRIT,18,10.1,MOYEN,Dossier prescrit - Délai dépassé
+RECOURS_FRAUDULEUX,6,3.4,ÉLEVÉ,Tentative de recours frauduleux
+SINISTRE_FICTIF,4,2.2,TRÈS ÉLEVÉ,Sinistre complètement inventé/fictif
+AVIS_DEFAVORABLE,3,1.7,ÉLEVÉ,Avis défavorable expert/arbitrage
